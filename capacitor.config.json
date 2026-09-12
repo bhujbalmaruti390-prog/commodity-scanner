@@ -1,0 +1,9 @@
+{
+  "appId": "com.legalmetrology.scanner",
+  "appName": "Legal Metrology Scanner",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}

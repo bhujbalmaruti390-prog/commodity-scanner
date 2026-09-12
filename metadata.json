@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Copy of Remix Legal Metrology Compliance System",
+  "description": "Automated compliance checking system for Packaged Commodities under Legal Metrology Rules, 2011 by scanning labels, extracting mandatory declarations, detecting violations, and generating enforcement reports.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

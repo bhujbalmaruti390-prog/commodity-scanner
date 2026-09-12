@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Legal Metrology Scanner</string>
+    <string name="camera_permission_required">Camera access is required to capture product packaging labels for statutory metrology compliance verification.</string>
+</resources>

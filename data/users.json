@@ -1,0 +1,34 @@
+[
+  {
+    "id": "usr_inspector_seed",
+    "name": "Insp. Rajesh Sharma",
+    "email": "inspector@legalmetrology.gov.in",
+    "role": "inspector",
+    "badgeOrOrg": "Dept. of Consumer Affairs (Badge #LM-DL-409)",
+    "salt": "5e99a280c8d42ceb99ac25dfbd67108c",
+    "passwordHash": "88fc3fa2e6a6b8e74f27a2ba46cb23f90d0239694ebb5143bbd4eeadb967e783100aaef4df9a72cfad9b37a0f379c9e9a282f153f4785563062fac9ce7ea6374",
+    "createdAt": "2026-09-04T08:21:52.187Z",
+    "lastLoginAt": "2026-09-06T15:36:02.545Z"
+  },
+  {
+    "id": "usr_user_seed",
+    "name": "Priya Verma",
+    "email": "user@packagingcompliance.com",
+    "role": "user",
+    "badgeOrOrg": "FMCG Packaging Quality & Compliance Division",
+    "salt": "586120c26dd1363220db9d7ad6f2800f",
+    "passwordHash": "7c7984e836332e478db543800f68d28040b7dfecae998e4d2533743fd8f4910df4298d4fa01a5e6084796d89f0caca9f46242c4e46cb12ffa05dedfacde09959",
+    "createdAt": "2026-09-04T08:21:52.247Z"
+  },
+  {
+    "id": "usr_1788510130488_t6h0y",
+    "name": "Sunita Rao",
+    "email": "sunita@regulatory.org",
+    "role": "user",
+    "badgeOrOrg": "QA Audit Division",
+    "salt": "2083663cb5cd88bfe9cdcc594942fcd2",
+    "passwordHash": "1d2aebee028a407db6f9523d462b36b16b2db3685a06d0100b25cc25099c33bc1d080800da6f0f015a9c2328a03350f4b67d2302b288349542f430d303de674f",
+    "createdAt": "2026-09-04T08:22:10.488Z",
+    "lastLoginAt": "2026-09-04T08:22:14.324Z"
+  }
+]
